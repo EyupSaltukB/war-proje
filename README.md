@@ -13,6 +13,11 @@ HTML ve CSS kullanıldı.
 <h4> Video </h4>
 
 
+https://user-images.githubusercontent.com/129687853/235790917-12ec70a4-68dd-4106-bd56-a89a3655d24e.mp4
+
+
+
+
 
 <h4> GIF </h4>
 
