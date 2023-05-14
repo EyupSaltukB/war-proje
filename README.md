@@ -1,6 +1,6 @@
 <h1>War Proje</h1>
 
-Bu bir deneme projesi olup statik yapıdadır.
+Bu statik yapılı bir deneme projesidir .
 
 <h2> Kullanılan Teknolojiler</h2>
 
